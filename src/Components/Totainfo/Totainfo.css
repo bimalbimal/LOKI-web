@@ -1,0 +1,61 @@
+.totalinfo{
+    background-color: rgb(11, 11, 11);
+    
+    height: 900px;
+    width: 100%;
+}
+.nii{
+    position: relative;
+    top: 70px;
+   padding-left: 300px;
+
+}
+.nui{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 90px;
+    
+    
+}
+.write{
+   
+    font-size: 45px;
+    position: absolute;
+    top: 185%;
+    left: 28%;
+}
+.oho{
+    background-color:rgb(67, 65, 65);
+    color: #fff;
+    height: 125px;
+    
+    
+}
+
+
+.oho p{
+    font-size: 25px;
+    padding: 20px;
+    
+}
+.donn{
+    position: relative;
+    height: 90px;
+    width: 100%;
+   margin-top: 12px;
+   background-color: rgb(67, 65, 65);
+   color: #fff;
+   font-size: 32px;
+   cursor: pointer;
+}
+
+.donn:hover{
+    background-color: rgb(94, 91, 91);
+}
+.last{
+    position: absolute;
+    top: 290%;
+    left: 35%;
+    font-size: 50px;
+}

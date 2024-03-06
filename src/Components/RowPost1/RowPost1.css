@@ -1,0 +1,119 @@
+.row {
+  margin-left: 20px;
+  color: black;
+  
+}
+
+.posters {
+  
+  padding: 20px;
+  display: flex;
+  overflow-x: auto;
+  
+  
+  
+  
+  
+  
+
+}
+.posters::-webkit-scrollbar {
+display: none;
+}
+
+
+
+.poster {
+  max-height: 250px;
+  margin-right: 10px;
+  cursor: pointer;
+  border-radius: 15px;
+ 
+  
+
+  
+  
+ 
+  background-size: cover; 
+  
+}
+
+.poster:hover {
+  transform: scale(1.1);
+}
+
+.titlee {
+  font-size: 30px;
+  font-family: old-english-five;
+  color: rgb(3, 44, 3);
+}
+
+
+
+
+.cancel {
+  float: right;
+  right: 10px;
+  position: relative;
+  height: 35px;
+  width: 35px;
+  color: white;
+  font-weight: bold;
+  border-color: white;
+  background-color: transparent;
+  font-family: 'Permanent Marker', cursive;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.cancel:hover {
+  border-color: rgb(3, 44, 3);
+  background-color: rgb(3, 44, 3);
+}
+
+.hai{
+  position: absolute;
+  top: 110%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+.arrow {
+position: absolute;
+top: 115%;
+transform: translateY(-50%);
+
+width: 30px;
+height: 30px;
+background-color: rgba(255, 255, 255, 0.7);
+border: 1px solid #ddd;
+border-radius: 50%;
+cursor: pointer;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 18px;
+}
+
+.left-arrow {
+
+
+left: 0;
+
+
+}
+
+.right-arrow {
+right: 0;
+}

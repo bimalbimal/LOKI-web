@@ -1,0 +1,76 @@
+.navbar {
+    height: 12vh;
+    background-color:  transparent;
+    height: 71px;
+    
+    
+    color: greenyellow;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    
+    
+    
+    justify-content: right;
+    
+    
+    
+    
+    
+    
+   
+    
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 32px 32px;
+    font-family:'Loki' ;
+    position: relative;
+    right: 0px;
+    
+    
+    
+   
+
+   color: greenyellow;
+   
+   font-size: 23px;
+
+   cursor: pointer;
+   
+   
+   
+   height: 5px;
+   
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+.logo{
+    pointer-events: none;
+    position: relative;
+    right: 65rem;
+   
+    
+   
+    
+    font-size:30px ;
+    color: greenyellow;
+    font-family: 'ARB 85 Poster Script JAN-39 FRE';
+    
+}
+.home{
+    background-color: white;
+    border: 100px;
+    
+    display: inline-block;
+}

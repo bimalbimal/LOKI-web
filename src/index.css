@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "ARB 85 Poster Script JAN-39 FRE";
+  src: local("ARB 85 Poster Script JAN-39 FRE"),
+    url("./fonts/ARB 85 Poster Script JAN-39 FRE.ttf") format("truetype");
+    font-weight: normal;
+  
+}
+@font-face {
+  font-family: "CloisterBlack";
+  src: local("CloisterBlack"),
+    url("./fonts/CloisterBlack.ttf") format("truetype");
+    font-weight: normal;
+  
+}
+
+@font-face {
+  font-family: "old-english-five";
+  src: local("old-english-five.regular"),
+    url("./fonts/old-english-five.regular.ttf") format("truetype");
+    font-weight: normal;
+  
+}
+
+@font-face {
+  font-family: "usangel";
+  src: local("usangel"),
+    url("./fonts/usangel.ttf") format("truetype");
+    font-weight: normal;
+  
+}
+@font-face {
+  font-family: "Loki";
+  src: local("Loki"),
+    url("./fonts/Loki.ttf") format("truetype");
+    font-weight: normal;
+  
+}
+
+
+
+
+

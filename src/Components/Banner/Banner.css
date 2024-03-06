@@ -1,0 +1,158 @@
+.banner{
+    
+    
+    
+    
+    height: 650px;
+    color: rgb(3, 44, 3);
+
+    
+
+}
+
+.gif{
+    background-size: cover;
+    height: 592px;
+    width: 100%;
+    position: relative;
+    top: -329.5px;
+    width: 100%px;
+
+}
+
+.back{
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+    background-position: top;
+    
+    
+   
+    
+}
+.content{
+    padding-top: 140px;
+    height: 190px;
+    
+    
+    
+    
+}
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+    padding-left: 110px;
+    font-family: 'Chakra Petch', sans-serif;
+    
+    top: 55px;
+    left: 130px;
+
+}
+
+.btn{
+    color: #fff;
+    outline: none;
+    border-color: #fff;
+    border-width: 1px;
+
+    font-weight: 700;
+    border-radius: 25px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgba(51, 51, 51, 0.5);
+    cursor: pointer;
+    position: relative;
+    font-family: 'Gloria Hallelujah', cursive;
+
+    margin-right: 1rem;
+    
+    
+    top: 0px;
+    left: 70px;
+    
+
+
+
+
+
+
+}
+
+.btn:hover{
+    color: black;
+    background-color: #e6e6e6;
+}
+
+.disc{
+    width: 45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 1rem;
+    height: 80px;
+    max-width: 360px;
+    top: 90px;
+    left: 50px;
+    padding-left: 30px;
+    font-family: old-english-five ;
+    
+    
+
+}
+
+.fade{
+    height: 7.4rem;
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
+    
+    padding-top: 205px;
+
+}
+.hoop{
+    background-color: #fff;
+    
+  color:   #27ae60;
+  height: 37px;
+  width: 70px;
+  position: absolute;
+  left: 80.5%;
+  top: 3.5%;
+  cursor: pointer;
+  font-size: 14px;
+  border: none;
+  
+ border-radius: 5px;
+ /*
+  border-width: 0.2px ;
+  border-color: #9b9494;*/
+ 
+  
+  align-items: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  
+}
+
+.hooop{
+    background-color:  #27ae60;
+  color: #fff;
+  position: absolute;
+  left: 88.54%;
+  top: 3.5%;
+  
+  cursor: pointer;
+ border: none;
+ border-radius: 5px;
+  font-size: 14px;
+  height: 37px;
+  width: 78px;
+
+ 
+  
+  align-items: center;
+  box-shadow: 1 1 10px rgba(255, 255, 255, 0.1);
+ 
+}
+.hooop:hover {
+    background-color: #219c56;
+  }
